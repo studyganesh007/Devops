@@ -1,4 +1,4 @@
-#greaer than zero 1
+#greaer than zero 11
 #!/bin/bash
 
 num=$1
